@@ -1,0 +1,47 @@
+
+
+body {
+  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Cairo Play', sans-serif;
+}
+
+
+.paragraphe {
+  font-family: 'Cairo Play', sans-serif;
+  font-size: 26px;
+  font-weight: 200;
+  text-align: justify;
+  
+}
+
+
+.btnRecette {
+  background-color: #027ee4;
+  color: #fffcfc;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s;
+  font-family: 'Cairo Play', sans-serif;
+  font-size: 16px; 
+}
+
+.btnRecette:hover {
+  background-color: #b30027;
+  font-family: 'Cairo Play', sans-serif;
+  font-size: 16px; 
+}
+
+
+
+
+
+
+
+

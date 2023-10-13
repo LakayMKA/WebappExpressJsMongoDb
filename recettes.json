@@ -1,0 +1,298 @@
+[
+    {
+      "nom": "Accra de Morue de Malanga",
+      "description": "Beignets frits à base de morue et de malanga.",
+      "categorie": "Entrée",
+      "ingredients": [
+        { "nom": "Morue", "quantite": "200g" },
+        { "nom": "Malanga", "quantite": "300g" },
+        { "nom": "Épices", "quantite": "Au goût" }
+      ],
+      "instructions": "1. Mélangez la morue, la malanga râpée et les épices. 2. Formez des boules et faites-les frire jusqu'à ce qu'elles soient dorées.",
+      "image": "accra-morue-malanga.jpg",
+      "tempsPreparation": 30,
+      "difficulte": "Moyenne"
+    },
+    {
+      "nom": "Chiquetaille de Morue",
+      "description": "Salade de morue émiettée avec des légumes et des épices.",
+      "categorie": "Entrée",
+      "ingredients": [
+        { "nom": "Morue", "quantite": "250g" },
+        { "nom": "Poivrons", "quantite": "2" },
+        { "nom": "Oignons", "quantite": "1" },
+        { "nom": "Épices", "quantite": "Au goût" }
+      ],
+      "instructions": "1. Mélangez la morue émiettée avec les poivrons, les oignons et les épices. 2. Servez frais.",
+      "image": "chiquetaille-morue.jpg",
+      "tempsPreparation": 20,
+      "difficulte": "Facile"
+    },
+    {
+      "nom": "Paté au Poulet",
+      "description": "Petits pâtés feuilletés au poulet.",
+      "categorie": "Entrée",
+      "ingredients": [
+        { "nom": "Poulet", "quantite": "300g" },
+        { "nom": "Pâte feuilletée", "quantite": "1 paquet" },
+        { "nom": "Épices", "quantite": "Au goût" }
+      ],
+      "instructions": "1. Remplissez la pâte feuilletée de poulet et d'épices. 2. Faites cuire au four jusqu'à ce qu'ils soient dorés.",
+      "image": "pate-au-poulet.jpg",
+      "tempsPreparation": 40,
+      "difficulte": "Moyenne"
+    },
+    {
+      "nom": "Kibby",
+      "description": "Boules de viande de bœuf et de blé concassé.",
+      "categorie": "Entrée",
+      "ingredients": [
+        { "nom": "Bœuf", "quantite": "250g" },
+        { "nom": "Blé concassé", "quantite": "200g" },
+        { "nom": "Épices", "quantite": "Au goût" }
+      ],
+      "instructions": "1. Mélangez la viande et le blé concassé avec des épices. 2. Formez des boules et faites-les cuire.",
+      "image": "kibby.jpg",
+      "tempsPreparation": 35,
+      "difficulte": "Facile"
+    },
+    {
+      "nom": "Marinade de Légumes",
+      "description": "Légumes marinés avec une vinaigrette épicée.",
+      "categorie": "Entrée",
+      "ingredients": [
+        { "nom": "Concombres", "quantite": "2" },
+        { "nom": "Carottes", "quantite": "2" },
+        { "nom": "Piments", "quantite": "2" },
+        { "nom": "Vinaigrette", "quantite": "Au goût" }
+      ],
+      "instructions": "1. Coupez les légumes en fines lamelles. 2. Ajoutez la vinaigrette épicée et laissez mariner.",
+      "image": "marinade-legumes.jpg",
+      "tempsPreparation": 15,
+      "difficulte": "Facile"
+    },
+    
+    {
+        "nom": "Poisson Gros Sel",
+        "description": "Poisson frit avec une sauce aux épices et au sel.",
+        "categorie": "Plat",
+        "ingredients": [
+        { "nom": "Poisson", "quantite": "500g" },
+        { "nom": "Sel", "quantite": "Au goût" },
+        { "nom": "Épices", "quantite": "Au goût" }
+        ],
+        "instructions": "1. Faites frire le poisson. 2. Préparez la sauce aux épices et au sel. 3. Nappez le poisson de la sauce.",
+        "image": "poisson-gros-sel.jpg",
+        "tempsPreparation": 40,
+        "difficulte": "Moyenne"
+    },
+    {
+        "nom": "Fricassé de Lambi",
+        "description": "Escargots de mer frits avec une sauce créole.",
+        "categorie": "Plat",
+        "ingredients": [
+        { "nom": "Lambi", "quantite": "300g" },
+        { "nom": "Sauce tomate", "quantite": "200ml" },
+        { "nom": "Épices", "quantite": "Au goût" }
+        ],
+        "instructions": "1. Faites frire le lambi. 2. Préparez la sauce tomate épicée. 3. Ajoutez le lambi à la sauce.",
+        "image": "fricassee-lambi.jpg",
+        "tempsPreparation": 45,
+        "difficulte": "Moyenne"
+    },
+    {
+        "nom": "Pot-au-Feu Créole",
+        "description": "Plat de viande mijotée avec des légumes et des épices.",
+        "categorie": "Plat",
+        "ingredients": [
+        { "nom": "Viande", "quantite": "500g" },
+        { "nom": "Légumes", "quantite": "Variés" },
+        { "nom": "Épices", "quantite": "Au goût" }
+        ],
+        "instructions": "1. Faites mijoter la viande avec les légumes et les épices jusqu'à tendreté.",
+        "image": "pot-au-feu-creole.jpg",
+        "tempsPreparation": 60,
+        "difficulte": "Moyenne"
+    },
+    {
+        "nom": "Griot",
+        "description": "Porc mariné et frit avec une sauce pikliz.",
+        "categorie": "Plat",
+        "ingredients": [
+        { "nom": "Porc", "quantite": "500g" },
+        { "nom": "Marinade", "quantite": "Au goût" },
+        { "nom": "Sauce pikliz", "quantite": "Au goût" }
+        ],
+        "instructions": "1. Marinez le porc. 2. Faites frire jusqu'à croustillant. 3. Servez avec la sauce pikliz.",
+        "image": "griot.jpg",
+        "tempsPreparation": 50,
+        "difficulte": "Moyenne"
+    },
+    {
+        "nom": "Gratin de Plantain",
+        "description": "Plat à base de plantains cuits au four avec du fromage.",
+        "categorie": "Plat",
+        "ingredients": [
+        { "nom": "Plantains", "quantite": "4" },
+        { "nom": "Fromage", "quantite": "200g" },
+        { "nom": "Épices", "quantite": "Au goût" }
+        ],
+        "instructions": "1. Coupez les plantains en tranches. 2. Ajoutez du fromage et des épices. 3. Faites cuire au four.",
+        "image": "gratin-plantain.jpg",
+        "tempsPreparation": 35,
+        "difficulte": "Facile"
+    },
+        
+    {
+        "nom": "Bananes Flambées",
+        "description": "Bananes caramélisées avec du rhum.",
+        "categorie": "Dessert",
+        "ingredients": [
+        { "nom": "Bananes", "quantite": "4" },
+        { "nom": "Rhum", "quantite": "50ml" },
+        { "nom": "Sucre", "quantite": "50g" }
+        ],
+        "instructions": "1. Épluchez les bananes et coupez-les en morceaux. 2. Faites chauffer le rhum et le sucre dans une poêle. 3. Faites flamber les bananes dans le mélange rhum-sucre. 4. Servez chaud.",
+        "image": "bananes-flambees.jpg",
+        "tempsPreparation": 20,
+        "difficulte": "Moyenne"
+    },
+    {
+        "nom": "Pain Patate",
+        "description": "Gâteau à la patate sucrée et à la cannelle.",
+        "categorie": "Dessert",
+        "ingredients": [
+        { "nom": "Patate douce", "quantite": "500g" },
+        { "nom": "Cannelle", "quantite": "2 cuillères à café" },
+        { "nom": "Sucre", "quantite": "200g" }
+        ],
+        "instructions": "1. Cuisez et écrasez la patate douce. 2. Ajoutez la cannelle et le sucre. 3. Faites cuire au four jusqu'à ce qu'il soit doré.",
+        "image": "pain-patate.jpg",
+        "tempsPreparation": 45,
+        "difficulte": "Facile"
+    },
+    {
+        "nom": "Gâteau Renversé à l'Ananas",
+        "description": "Gâteau à l'ananas renversé au caramel.",
+        "categorie": "Dessert",
+        "ingredients": [
+        { "nom": "Ananas en tranches", "quantite": "6" },
+        { "nom": "Caramel", "quantite": "100g" },
+        { "nom": "Pâte à gâteau", "quantite": "1 paquet" }
+        ],
+        "instructions": "1. Placez les tranches d'ananas dans du caramel au fond d'un moule. 2. Versez la pâte à gâteau sur les ananas. 3. Faites cuire au four.",
+        "image": "gateau-ananas.jpg",
+        "tempsPreparation": 50,
+        "difficulte": "Moyenne"
+    },
+    {
+        "nom": "Sorbet Corossol",
+        "description": "Sorbet rafraîchissant au corossol.",
+        "categorie": "Dessert",
+        "ingredients": [
+        { "nom": "Corossol", "quantite": "2" },
+        { "nom": "Sucre", "quantite": "150g" },
+        { "nom": "Eau", "quantite": "200ml" }
+        ],
+        "instructions": "1. Mixez le corossol avec le sucre et l'eau. 2. Versez dans des moules à sorbet et congelez.",
+        "image": "sorbet-corossol.jpg",
+        "tempsPreparation": 30,
+        "difficulte": "Facile"
+    },
+    {
+        "nom": "Sorbet Mangue",
+        "description": "Sorbet à la mangue crémeux.",
+        "categorie": "Dessert",
+        "ingredients": [
+        { "nom": "Mangue", "quantite": "2" },
+        { "nom": "Crème", "quantite": "200ml" },
+        { "nom": "Sucre", "quantite": "100g" }
+        ],
+        "instructions": "1. Mixez la mangue avec la crème et le sucre. 2. Versez dans des moules à sorbet et congelez.",
+        "image": "sorbet-mangue.jpg",
+        "tempsPreparation": 25,
+        "difficulte": "Facile"
+    },
+
+
+    {
+        "nom": "Mango Sunrise",
+        "description": "Un mocktail tropical rafraîchissant avec de la mangue et un lever de soleil de grenadine.",
+        "categorie": "Mocktail",
+        "ingredients": [
+        { "nom": "Jus de mangue", "quantite": "150ml" },
+        { "nom": "Jus d'orange", "quantite": "50ml" },
+        { "nom": "Grenadine", "quantite": "15ml" },
+        { "nom": "Glaçons", "quantite": "Au goût" }
+        ],
+        "instructions": "1. Mélangez le jus de mangue et le jus d'orange. 2. Ajoutez les glaçons. 3. Versez doucement la grenadine pour créer un effet de lever de soleil.",
+        "image": "mango-sunrise.jpg",
+        "tempsPreparation": 10,
+        "difficulte": "Facile"
+    },
+    {
+        "nom": "Tropical Breeze",
+        "description": "Un mocktail tropical léger et pétillant avec du jus d'ananas et de la limonade.",
+        "categorie": "Mocktail",
+        "ingredients": [
+        { "nom": "Jus d'ananas", "quantite": "200ml" },
+        { "nom": "Limonade", "quantite": "100ml" },
+        { "nom": "Jus de citron vert", "quantite": "30ml" },
+        { "nom": "Glaçons", "quantite": "Au goût" }
+        ],
+        "instructions": "1. Mélangez le jus d'ananas, la limonade et le jus de citron vert. 2. Ajoutez les glaçons et remuez.",
+        "image": "tropical-breeze.jpg",
+        "tempsPreparation": 5,
+        "difficulte": "Facile"
+    },
+    {
+        "nom": "Mojito sans Alcool à la Mangue",
+        "description": "Une version sans alcool du célèbre mojito, avec de la mangue.",
+        "categorie": "Mocktail",
+        "ingredients": [
+        { "nom": "Mangue", "quantite": "1" },
+        { "nom": "Menthe fraîche", "quantite": "10 feuilles" },
+        { "nom": "Jus de citron vert", "quantite": "30ml" },
+        { "nom": "Eau gazeuse", "quantite": "150ml" },
+        { "nom": "Sucre", "quantite": "20g" },
+        { "nom": "Glaçons", "quantite": "Au goût" }
+        ],
+        "instructions": "1. Mixez la mangue, la menthe, le jus de citron vert et le sucre. 2. Ajoutez les glaçons dans un verre. 3. Versez le mélange de mangue et d'eau gazeuse dans le verre.",
+        "image": "mango-mojito.jpg",
+        "tempsPreparation": 15,
+        "difficulte": "Moyenne"
+    },
+    {
+        "nom": "Coco Cooler",
+        "description": "Une boisson tropicale rafraîchissante à base de lait de coco et de jus de fruits.",
+        "categorie": "Mocktail",
+        "ingredients": [
+        { "nom": "Lait de coco", "quantite": "150ml" },
+        { "nom": "Jus d'ananas", "quantite": "100ml" },
+        { "nom": "Jus d'orange", "quantite": "50ml" },
+        { "nom": "Glaçons", "quantite": "Au goût" }
+        ],
+        "instructions": "1. Mélangez le lait de coco, le jus d'ananas et le jus d'orange. 2. Ajoutez les glaçons et remuez.",
+        "image": "coco-cooler.jpg",
+        "tempsPreparation": 5,
+        "difficulte": "Facile"
+    },
+    {
+        "nom": "Tropical Sparkler",
+        "description": "Un mocktail tropical pétillant avec du jus de fruit de la passion, de l'eau gazeuse et de la grenadine.",
+        "categorie": "Mocktail",
+        "ingredients": [
+        { "nom": "Jus de fruit de la passion", "quantite": "150ml" },
+        { "nom": "Eau gazeuse", "quantite": "100ml" },
+        { "nom": "Grenadine", "quantite": "15ml" },
+        { "nom": "Glaçons", "quantite": "Au goût" }
+        ],
+        "instructions": "1. Mélangez le jus de fruit de la passion et l'eau gazeuse. 2. Ajoutez les glaçons. 3. Versez doucement la grenadine pour un effet pétillant.",
+        "image": "tropical-sparkler.jpg",
+        "tempsPreparation": 10,
+        "difficulte": "Facile"
+    }
+    ]
+        
+
+

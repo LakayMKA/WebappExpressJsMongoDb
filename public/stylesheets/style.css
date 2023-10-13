@@ -1,0 +1,102 @@
+
+.backgroundIndex {
+  background-image: url('../images/4cover.jpg');
+  background-size: cover; /* Ajuste la taille de l'image pour couvrir tout le body */
+  background-repeat: no-repeat; /* Empêche la répétition de l'image */
+  background-attachment: fixed; /* Fixe l'image de fond pour qu'elle ne défile pas avec le contenu */
+  background-position: center center; /* Centre l'image horizontalement et verticalement */
+}
+.backgroundRecettes {
+  background-image: url('../images/4cover.jpg');
+  background-size: cover; /* Ajuste la taille de l'image pour couvrir tout le body */
+  background-repeat: no-repeat; /* Empêche la répétition de l'image */
+  background-attachment: fixed; /* Fixe l'image de fond pour qu'elle ne défile pas avec le contenu */
+  background-position: center center; /* Centre l'image horizontalement et verticalement */
+}
+
+
+
+
+body {
+  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Cairo Play', sans-serif;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.582); /* Couleur de fond translucide */
+  border: none; /* Bordure fine */
+  border-radius: 15px; /* Coins arrondis */
+  width: 65%; /* Largeur de 65% de la page */
+  padding: 20px;
+  text-align: justify;
+  height: 30vh;
+}
+
+.content {
+  margin: 0 auto; /* Centre le contenu horizontalement */
+  display: flex;
+  flex-direction: column; /* Empile les éléments verticalement */
+  align-items: center; /* Centre les éléments horizontalement */
+  gap: 20px; /* Espacement entre les éléments */
+}
+
+.titreAccueil {
+  font-size: 35px;
+  color: rgb(253, 253, 253);
+  font-family: 'Cairo Play', sans-serif;
+  font-weight: 800;
+}
+
+.paragraphe {
+
+  margin-bottom: 20px;
+  color: rgb(255, 255, 255);
+  line-height: 1.5;
+  font-family: 'Cairo Play', sans-serif;
+  font-size: 21px;
+  font-weight: 500;
+}
+
+.btnAccueil {
+  background-color: #027ee4;
+  color: #fffcfc;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s;
+  font-family: 'Cairo Play', sans-serif;
+  font-size: 21px;
+  font-weight: 500;
+}
+
+.btnAccueil:hover {
+  background-color: #b30027;
+  font-family: 'Cairo Play', sans-serif;
+  font-size: 21px;
+  font-weight: 500;
+  
+}
+
+
+
+.barre-navigation {
+  background-color: rgba(0, 0, 0, 0.014);
+  justify-content: flex-end; 
+}
+
+ 
+.texte-cairo {
+  font-family: 'Cairo', sans-serif;
+  color: #ffffff;
+  font-family: 'Cairo Play', sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+}
+
